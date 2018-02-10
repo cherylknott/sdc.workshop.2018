@@ -1,0 +1,3 @@
+Hello world
+how
+This is my first file using nano. 
